@@ -150,7 +150,7 @@ public:
 
 };
 
-class PMLocalizer : public Localizer
+class PSI_API PMLocalizer : public Localizer
 {
 
 protected:
